@@ -2,3 +2,4 @@ pytest
 pytest-cov
 datetime
 codecov
+pyyaml
